@@ -1,7 +1,7 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        List<Integer> list = new ArrayList<>();
-        for(int i=0;i<nums.length;i++){
+        List list = new ArrayList<>();
+        for(int i=0 ;i<nums.length;i++){
             int count = 0;
             if(!list.contains(nums[i])){
                 for(int j=0;j<nums.length;j++){
@@ -9,11 +9,10 @@ class Solution {
                         count++;
                     }
                 }
-            }
-            if(count > (nums.length)/3){
+            }if(count > (nums.length/3)){
                 list.add(nums[i]);
             }
-        }
-        return list;
+        }return list;
+        
     }
 }

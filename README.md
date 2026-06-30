@@ -55,5 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
+| [1122-relative-sort-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Stack
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [1122-relative-sort-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Sorting
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [1122-relative-sort-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 ## Counting
 |  |
 | ------- |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0724-find-pivot-index) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->

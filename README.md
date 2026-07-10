@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0228-summary-ranges) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -110,5 +113,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->

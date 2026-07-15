@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0229-majority-element-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0290-word-pattern) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0202-happy-number) |

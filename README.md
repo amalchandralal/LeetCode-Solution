@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0155-min-stack) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0290-word-pattern) |

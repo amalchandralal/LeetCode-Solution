@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0511-game-play-analysis-i) |
 | [0596-classes-with-at-least-5-students](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0620-not-boring-movies) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

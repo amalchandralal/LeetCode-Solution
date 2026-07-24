@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0713-subarray-product-less-than-k](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [2574-left-and-right-sum-differences](https://github.com/amalchandralal/LeetCode-Solution/tree/master/2574-left-and-right-sum-differences) |
 ## Counting Sort
@@ -189,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->

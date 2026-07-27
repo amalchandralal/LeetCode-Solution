@@ -25,6 +25,9 @@ class Solution {
         for(int num: arr){
             if(num+sum > maxSum){
                 part++;
+                if(part > k){
+                    return false;
+                }
                 sum=num;
             }else{
                 sum+=num;

@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0511-game-play-analysis-i) |
 | [0596-classes-with-at-least-5-students](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0620-not-boring-movies) |
+| [1075-project-employees-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1075-project-employees-i) |
 ## Sliding Window
 |  |
 | ------- |

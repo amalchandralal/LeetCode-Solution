@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0012-integer-to-roman) |
+| [0138-copy-list-with-random-pointer](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 ## Prefix Sum
 |  |
 | ------- |

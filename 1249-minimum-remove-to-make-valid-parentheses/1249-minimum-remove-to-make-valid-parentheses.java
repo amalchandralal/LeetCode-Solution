@@ -1,33 +1,32 @@
 class Solution {
     public String minRemoveToMakeValid(String s) {
+        char[] arr = s.toCharArray();
         Stack<Integer> stack = new Stack<>();
-        HashSet<Integer> set = new HashSet<>();
 
-        int i = 0;
-        for(char c : s.toCharArray()){
-            if(c == '('){
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == '(') {
                 stack.push(i);
-            }else if(c == ')'){
-                if(!stack.isEmpty()){
+            } else if (arr[i] == ')') {
+                if (!stack.isEmpty()) {
                     stack.pop();
-                }else{
-                    set.add(i);
+                } else {
+                    arr[i] = '#';
                 }
             }
-            i++;
         }
 
-        while(!stack.isEmpty()){
-            set.add(stack.pop());
+        while (!stack.isEmpty()) {
+            arr[stack.pop()] = '#';
         }
 
-        StringBuilder result = new StringBuilder();
+        StringBuilder ans = new StringBuilder();
 
-        for(int j = 0;j < s.length();j++){
-            if(!set.contains(j)){
-                result.append(s.charAt(j));
+        for (char ch : arr) {
+            if (ch != '#') {
+                ans.append(ch);
             }
         }
-        return result.toString();
+
+        return ans.toString();
     }
 }

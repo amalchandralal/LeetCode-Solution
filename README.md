@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0202-happy-number) |
 ## Linked List

@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0290-word-pattern) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0338-counting-bits) |
@@ -229,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0374-guess-number-higher-or-lower) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->

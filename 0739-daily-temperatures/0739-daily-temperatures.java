@@ -10,7 +10,7 @@ class Solution {
                 helperStack.pop();
             }
 
-            if(!helperStack.isEmpty() && temperatures[idx] < temperatures[helperStack.peek()]){
+            if(!helperStack.isEmpty()){
                 ans[idx] = helperStack.peek()-idx;
                 helperStack.push(idx);
                 

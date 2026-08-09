@@ -12,12 +12,11 @@ class Solution {
 
             if(!helperStack.isEmpty()){
                 ans[idx] = helperStack.peek()-idx;
-                helperStack.push(idx);
                 
             }
-            if(helperStack.isEmpty()){
+           
                 helperStack.push(idx);
-            }
+            
         }
         return ans;
         

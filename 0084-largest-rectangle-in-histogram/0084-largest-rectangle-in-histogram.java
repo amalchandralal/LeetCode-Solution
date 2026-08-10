@@ -4,17 +4,15 @@ class Solution {
         ArrayDeque<Integer> stack = new ArrayDeque<>();
         int maxArea = 0;
 
-        for(int idx = 0 ; idx <= length ; idx++){
-            int currentHeight = (idx == length)? 0 : heights[idx];
-            
-            while(!stack.isEmpty() && currentHeight < heights[stack.peek()]){
-                int height = heights[stack.pop()];
-                int width = (stack.isEmpty())? idx : idx-stack.peek()-1;
-                maxArea = Math.max(maxArea, height*width);
+        for(int i = 0 ; i <= length ; i++){
+            int height = (i == length)? 0 : heights[i];
 
+            while(!stack.isEmpty() && height < heights[stack.peek()]){
+                int currentHeight = heights[stack.pop()];
+                int currentWidth = (stack.isEmpty())? i : i-stack.peek()-1;
+                maxArea = Math.max(maxArea, (currentHeight * currentWidth));
             }
-            stack.push(idx);
-
+            stack.push(i);
         }
         return maxArea;
         

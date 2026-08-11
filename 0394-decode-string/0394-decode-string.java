@@ -1,36 +1,32 @@
 class Solution {
     public String decodeString(String s) {
-        
-        ArrayDeque<Character> stack = new ArrayDeque<>();
-
+        ArrayDeque<StringBuilder> stringStack = new ArrayDeque<>();
+        ArrayDeque<Integer> numberStack = new ArrayDeque<>();
+        int number = 0;
+        StringBuilder currentString = new StringBuilder();
         for(char ch : s.toCharArray()){
-            if(ch != ']'){
-                stack.push(ch);
-            }else{
-                StringBuilder currentString = new StringBuilder();
-                while(!stack.isEmpty() && stack.peek() != '['){
-                    currentString.insert(0,stack.pop());
-                }
-                stack.pop();
-                StringBuilder number = new StringBuilder();
-                while(!stack.isEmpty() && Character.isDigit(stack.peek())){
-                    number.insert(0,stack.pop());
-                }
-                int repeat = Integer.parseInt(number.toString());
+            if(Character.isDigit(ch)){
+                number = number * 10 + (ch-'0');
+            }else if(ch == '['){
+                numberStack.push(number);
+                stringStack.push(currentString);
 
-                StringBuilder repeated = new StringBuilder();
-                for(int i = 0 ; i < repeat;i++){
-                    repeated.append(currentString);
+                number = 0;
+                currentString = new StringBuilder();
+            }else if(ch == ']'){
+                int repeat = numberStack.pop();
+                StringBuilder previousString = stringStack.pop();
+
+                for(int i = 0;i< repeat;i++){
+                    previousString.append(currentString);
                 }
-                for(char c : repeated.toString().toCharArray()){
-                    stack.push(c);
-                }
+                
+                currentString = previousString;
+            }else{
+                currentString.append(ch);
             }
         }
-        StringBuilder answer = new StringBuilder();
-        while(!stack.isEmpty()){
-            answer.insert(0,stack.pop());
-        }
-        return answer.toString();
+        return currentString.toString();
+        
     }
 }

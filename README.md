@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0853-car-fleet) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0901-online-stock-span) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->

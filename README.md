@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 ## Greedy
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 ## Interactive
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
 | ------- |
@@ -268,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0394-decode-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0853-car-fleet) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0338-counting-bits) |
@@ -286,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

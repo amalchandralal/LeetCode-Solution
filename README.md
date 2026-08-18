@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0724-find-pivot-index) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1122-relative-sort-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Sorting
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0853-car-fleet](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0853-car-fleet) |
 | [1122-relative-sort-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 ## Counting
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Divide and Conquer
 |  |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 ## Interactive

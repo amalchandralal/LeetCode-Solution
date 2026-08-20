@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |

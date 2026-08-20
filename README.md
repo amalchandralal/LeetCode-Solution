@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0853-car-fleet](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0853-car-fleet) |
 | [1122-relative-sort-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1122-relative-sort-array) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -167,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0338-counting-bits) |
 ## Simulation
 |  |

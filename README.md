@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |

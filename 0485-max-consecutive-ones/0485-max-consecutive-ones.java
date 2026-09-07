@@ -8,12 +8,8 @@ class Solution {
                 maxCount = Math.max(currentCount, maxCount);
                 currentCount = 0;  
             }
-            
-            if(j == nums.length-1){
-                maxCount = Math.max(currentCount, maxCount);
-            }
             j++;
         }
-        return maxCount;
+        return Math.max(maxCount,currentCount);
     }
 }

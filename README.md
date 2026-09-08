@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2574-left-and-right-sum-differences](https://github.com/amalchandralal/LeetCode-Solution/tree/master/2574-left-and-right-sum-differences) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [2574-left-and-right-sum-differences](https://github.com/amalchandralal/LeetCode-Solution/tree/master/2574-left-and-right-sum-differences) |
 ## Counting Sort
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive
 |  |
 | ------- |

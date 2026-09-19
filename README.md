@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2574-left-and-right-sum-differences](https://github.com/amalchandralal/LeetCode-Solution/tree/master/2574-left-and-right-sum-differences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/amalchandralal/LeetCode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0268-missing-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Linked List
 |  |
 | ------- |
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->

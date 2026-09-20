@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0202-happy-number) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0119-pascals-triangle-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -347,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

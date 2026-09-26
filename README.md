@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/amalchandralal/LeetCode-Solution/tree/master/2574-left-and-right-sum-differences) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/amalchandralal/LeetCode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
 |  |

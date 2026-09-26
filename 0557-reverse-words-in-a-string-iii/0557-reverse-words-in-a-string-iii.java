@@ -1,8 +1,8 @@
 class Solution {
     public String reverseWords(String s) {
-        char []arr = s.toCharArray();
-        int right = 0,left = 0;
-        while(right < arr.length){
+        char[]arr = s.toCharArray();
+        int left = 0,right = 0;
+        while(right < s.length()){
             if(arr[right] == ' '){
                 reverse(arr,left,right-1);
                 left = right+1;
@@ -10,15 +10,14 @@ class Solution {
             right++;
         }
         reverse(arr,left,right-1);
-
         return new String(arr);
         
     }
-    public static void reverse(char []arr,int left,int right){
+    public static void reverse(char[]arr,int left ,int right){
         while(left < right){
-            char temp = arr[right];
-            arr[right] = arr[left];
-            arr[left] = temp;
+            char temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
             left++;
             right--;
         }

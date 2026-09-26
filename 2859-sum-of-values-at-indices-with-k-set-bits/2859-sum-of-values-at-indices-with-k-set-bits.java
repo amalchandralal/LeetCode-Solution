@@ -5,8 +5,8 @@ class Solution {
             int count = 0;
             int x = i;
             while(x > 0){
-                count += x & 1;
-                x = x>>1;
+                x = x & (x-1);
+                count++;
             }
             if(count == k){
                 sum+=nums.get(i);

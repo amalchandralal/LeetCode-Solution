@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/amalchandralal/LeetCode-Solution/tree/master/2574-left-and-right-sum-differences) |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/amalchandralal/LeetCode-Solution/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/amalchandralal/LeetCode-Solution/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0338-counting-bits) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/amalchandralal/LeetCode-Solution/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Simulation
 |  |
 | ------- |

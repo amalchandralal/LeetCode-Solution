@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0213-house-robber-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0392-is-subsequence) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0268-missing-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/amalchandralal/LeetCode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |

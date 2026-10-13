@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0394-decode-string) |
+| [0459-repeated-substring-pattern](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0680-valid-palindrome-ii) |
@@ -413,4 +414,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0075-sort-colors) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->

@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/amalchandralal/LeetCode-Solution/tree/master/0392-is-subsequence) |
